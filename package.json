@@ -4,6 +4,7 @@
   "main": "src/plugin.js",
   "license": "MIT",
   "author": "Sebastian Müller <sebastian.mueller@jimdo.com>",
+  "version": "0.0.7",
   "scripts": {
     "test": "jest test",
     "test:cover": "jest test --coverage",
